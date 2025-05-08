@@ -3,7 +3,6 @@
 🔭 I’m currently working on sports website<br>
 🌱I’m currently learning<br>
 💬 Ask me about<br>
-⚡Fun fact
 gmail:pavanhv9611@gmail.com
 
 
