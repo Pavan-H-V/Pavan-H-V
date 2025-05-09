@@ -1,6 +1,6 @@
 # 💫 About Me:
 💫i am pavan H V
-🔭 I’m currently working on sports website<br>
+🔭 I’m currently working on Smart-Home Assist website<br>
 🌱I’m currently learning<br>
 💬 Ask me about<br>
 gmail:pavanhv9611@gmail.com
