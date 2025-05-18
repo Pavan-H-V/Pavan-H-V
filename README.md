@@ -1,11 +1,12 @@
-# 💫 About Me:
-💫i am pavan H V
-🔭 I’m currently working on Smart-Home Assist website<br>
-🌱I’m currently learning<br>
-💬 Ask me about<br>
-learing Full stack development <br>
-gmail:pavanhv9611@gmail.com
+## Hello👋, Pavan here
+💡 A Passionate developer from Bengaluru ♨️ 
 
+# 💫 About Me:<br>
+🌱 I’m currently learning FSWD(Full Stack Web Development),MERN stack<br><br>
+🔭 I’m currently working on Karnatism Tourism Website and GTunes (A music website clone)<br><br>
+💬 Ask me about Programming,FSWD <br><br>
+👍 Checkout my resume <a href="">here</a> <br> <br>
+🙌 Reach out to me at pavanhv9611@gmail.com 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_me_pavan__07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanhv9611@gmail.com) 
